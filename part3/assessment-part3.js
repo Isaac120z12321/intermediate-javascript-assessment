@@ -12,9 +12,10 @@
 // with the animal as the context, and 'Trogdor' as a parameter.
 // return the result of your updateAnimal invocation
 
-// CODE HERE...
-
-
+function callBinding(magicAnimals, updateAnimal, id) {
+  return magicAnimals.filter(e = id) 
+  function updateAnimal("Trogdor");
+  
 
 // *************
 // * PROBLEM 2 *
@@ -27,9 +28,9 @@
 // with the context of the animal, and the array ['being majestic', 'eating rainbows'] as a parameter.
 // return the result of your updateAnimal invocation
 
-// CODE HERE...
-
-
+function applyBinding(magicAnimals, updateAnimal, id) {
+  magicAnimals.filter();
+}
 
 // *************
 // * PROBLEM 3 *
@@ -48,8 +49,6 @@
 var foo;
 
 // CODE HERE...
-
-
 
 // *************
 // * PROBLEM 4 *
